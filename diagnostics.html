@@ -26,14 +26,24 @@
   <p>Text below image</p>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6N9K7KPH4H"></script>
+<!-- 
+**IMPORTANT**
+
+Make sure you replace these script tags with your own GA4 tag
+to ensure data is reported to your GA4 property.
+
+-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=[REPLACE_WITH_YOUR_ID]}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-6N9K7KPH4H');
+  gtag('config', '[REPLACE_WITH_YOUR_ID]');
 </script>
+
+<!-- End of script tags to replace  -->
+
 <script type="module">
   import {getCLS, getFID, getLCP} from 'https://unpkg.com/web-vitals?module';
 
