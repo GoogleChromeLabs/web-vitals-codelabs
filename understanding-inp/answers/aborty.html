@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Understanding INP</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+
+  <link rel="stylesheet" href="./workshop/reset.css" />
+  <link rel="stylesheet" href="./workshop/styles.css" />
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,800&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <main>
+    <score-keeper></score-keeper>
+
+    <div class="scores">
+      <inp-score></inp-score>
+      <interaction-score></interaction-score>
+      <fps-meter></fps-meter>
+      <my-timer></my-timer>
+    </div>
+
+    <all-interactions></all-interactions>
+
+    <demo-viewer></demo-viewer>
+  </main>
+
+  <script type="module" src="./workshop/components/score-keeper.js"></script>
+  <script type="module" src="./workshop/components/inp-score.js"></script>
+  <script type="module" src="./workshop/components/interaction-score.js"></script>
+  <script type="module" src="./workshop/components/my-timer.js"></script>
+  <script type="module" src="./workshop/components/fps-meter.js"></script>
+
+  <script type="module" src="./workshop/logAllInteractions.js"></script>
+  <script type="module">
+    import { blockFor } from "./workshop/utils/blockFor.js";
+    import { schedulerDotYield } from "./workshop/utils/schedulerDotYield.js";
+
+    function afterNextPaintPlus(callback) {
+      requestAnimationFrame(() => {
+        setTimeout(callback, 100);
+      });
+    }
+
+    // This hack becausse inline script runs before modules
+    afterNextPaintPlus(() => {
+      const score = document.querySelector('score-keeper');
+      const button = score.button;
+
+
+      async function blockInPiecesYieldyAborty(ms, signal) {
+        const parts = ms / 10;
+        for (let i = 0; i < parts; i++) {
+          if (signal.aborted) return;
+
+          // Polyfill for scheduler.yield()
+          await schedulerDotYield();
+
+          blockFor(10);
+        }
+      }
+
+      let abortController = new AbortController();
+
+      button.addEventListener("click", async () => {
+        score.incrementAndUpdateUI();
+
+        abortController.abort();
+        abortController = new AbortController();
+
+        await blockInPiecesYieldyAborty(1000, abortController.signal);
+      });
+    });
+  </script>
+</body>
+
+</html>

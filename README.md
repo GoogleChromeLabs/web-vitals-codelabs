@@ -1,5 +1,9 @@
 # Core Web Vitals codelabs
 
+## Understanding Interaction to Next Paint (INP)
+
+[This directory](understanding-inp/) contains code and answers for the [Understanding INP codelab](https://codelabs.developers.google.com/codelabs/understanding-inp).
+
 ## Measure performance with web-vitals.js, Google Analytics and BigQuery code samples
 
 [This directory](web-vitals-google-analytics-bigquery/) contains two example pages to accompany the [Measure performance with web-vitals.js, Google Analytics and BigQuery](https://codelabs.developers.google.com/codelabs/web-vitals-google-analytics-biqquery) codelab.
