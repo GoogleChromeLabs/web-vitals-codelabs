@@ -40,8 +40,8 @@
 
   <script type="module" src="./workshop/logAllInteractions.js"></script>
   <script type="module">
-    import { blockFor } from "./workshop/utils/blockFor.js";
-    import { schedulerDotYield } from "./workshop/utils/schedulerDotYield.js";
+    import { blockFor } from './workshop/utils/blockFor.js';
+    import { schedulerDotYield } from './workshop/utils/schedulerDotYield.js';
 
     function afterNextPaintPlus(callback) {
       requestAnimationFrame(() => {
@@ -69,7 +69,7 @@
 
       let abortController = new AbortController();
 
-      button.addEventListener("click", async () => {
+      button.addEventListener('click', async () => {
         score.incrementAndUpdateUI();
 
         abortController.abort();

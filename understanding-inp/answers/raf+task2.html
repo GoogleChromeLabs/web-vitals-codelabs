@@ -40,7 +40,7 @@
 
   <script type="module" src="./workshop/logAllInteractions.js"></script>
   <script type="module">
-    import { blockFor } from "./workshop/utils/blockFor.js";
+    import { blockFor } from './workshop/utils/blockFor.js';
     function afterNextPaintPlus(callback) {
       requestAnimationFrame(() => {
         setTimeout(callback, 100);
@@ -62,7 +62,7 @@
         return new Promise(resolve => afterNextPaint(resolve));
       }
 
-      button.addEventListener("click", async () => {
+      button.addEventListener('click', async () => {
         score.incrementAndUpdateUI();
 
         await nextPaint();

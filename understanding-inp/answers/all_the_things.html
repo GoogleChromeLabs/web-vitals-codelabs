@@ -40,7 +40,7 @@
 
   <script type="module" src="./workshop/logAllInteractions.js"></script>
   <script type="module">
-    import { blockFor } from "./workshop/utils/blockFor.js";
+    import { blockFor } from './workshop/utils/blockFor.js';
     function afterNextPaintPlus(callback) {
       requestAnimationFrame(() => {
         setTimeout(callback, 100);
@@ -56,7 +56,7 @@
         blockFor(1000);
       }, 3000);
 
-      button.addEventListener("click", () => {
+      button.addEventListener('click', () => {
         blockFor(1000);
         score.incrementAndUpdateUI();
 
