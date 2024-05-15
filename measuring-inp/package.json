@@ -1,0 +1,20 @@
+{
+  "name": "measuring-inp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Code for the Measuring INP codelab",
+  "main": "index.js",
+  "scripts": {
+    "start": "statikk --port 8080 ."
+  },
+  "keywords": [
+    "INP",
+    "CWV"
+  ],
+  "author": "Google LLC",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "statikk": "^2.2.1",
+    "wicg-inert": "^3.1.2"
+  }
+}

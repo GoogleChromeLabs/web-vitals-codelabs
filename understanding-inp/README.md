@@ -1,6 +1,6 @@
 # Understanding Interaction to Next Paint (INP)
 
-This directory contains code and answers for the [Understanding INP codelab](https://codelabs.developers.google.com/codelabs/understanding-inp).
+This directory contains code and answers for the [Understanding INP codelab](https://codelabs.developers.google.com/understanding-inp).
 
 ## To start
 

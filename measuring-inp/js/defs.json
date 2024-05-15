@@ -1,0 +1,1262 @@
+[
+  {
+    "term": "Abapical",
+    "def": "Away from the apex of a shell toward the base."
+  },
+  {
+    "term": "Acephalous",
+    "def": "Headless."
+  },
+  {
+    "term": "Acinose",
+    "def": "Full of small bulgings; resembling the kernel in a nut."
+  },
+  {
+    "term": "Aculeate",
+    "def": "Very sharply pointed, as the teeth on the radula of some snails."
+  },
+  {
+    "term": "Acuminate",
+    "def": "Gradually tapering to a point, as the spire of some shells."
+  },
+  {
+    "term": "Acute",
+    "def": "Sharp or pointed, as the spire of a shell, or the lip of a shell."
+  },
+  {
+    "term": "Adapical ",
+    "def": "Toward the apex of a shell (<--> abapical)."
+  },
+  {
+    "term": "Admedian",
+    "def": "Next to the central object, as the lateral teeth on the lingual membrane."
+  },
+  {
+    "term": "Adpressed",
+    "def": "With overlapping whorls or with a suture tightly pressed to the previous whorl (preferred to the term appressed)."
+  },
+  {
+    "term": "Afferent",
+    "def": "To bring in; when relating to a vessel or duct, indicating that it brings in its contents."
+  },
+  {
+    "term": "Amoeboid",
+    "def": "Shaped like an amoeba, a small animalcule."
+  },
+  {
+    "term": "Amorphous",
+    "def": "Without distinct form."
+  },
+  {
+    "term": "Amphibious",
+    "def": "Inhabiting both land and water."
+  },
+  {
+    "term": "Amphidetic",
+    "def": "With the ligament on both sides of the umbones."
+  },
+  {
+    "term": "Analogue",
+    "def": "A likeness between two objects when otherwise they are totally different, as the wing of a bird and the wing of a butterfly."
+  },
+  {
+    "term": "Anastomosing",
+    "def": "Coming together."
+  },
+  {
+    "term": "Annular",
+    "def": "Made up of rings."
+  },
+  {
+    "term": "Anterior",
+    "def": "The front or fore end."
+  },
+  {
+    "term": "Aquatic",
+    "def": "Inhabiting the water."
+  },
+  {
+    "term": "Arborescent",
+    "def": "Branching like a tree."
+  },
+  {
+    "term": "Arched",
+    "def": "Bowed or bent in a curve."
+  },
+  {
+    "term": "Arcti-spiral",
+    "def": "Tightly coiled, as some spiral shells."
+  },
+  {
+    "term": "Asphyxiating",
+    "def": "Causing suspended animation; apparent death."
+  },
+  {
+    "term": "Assimilation",
+    "def": "Act of converting one substance into another, as the changing of food-stuffs into living bodies."
+  },
+  {
+    "term": "Asymmetrical",
+    "def": "Not symmetrical."
+  },
+  {
+    "term": "Atrium",
+    "def": "Atrium"
+  },
+  {
+    "term": "Atrophied",
+    "def": "Wasted away."
+  },
+  {
+    "term": "Attenuate",
+    "def": "Long and slender, as in some shells."
+  },
+  {
+    "term": "Auditory",
+    "def": "Connected with the hearing."
+  },
+  {
+    "term": "Auricled",
+    "def": "Eared, or with ear-like appendages."
+  },
+  {
+    "term": "Basal",
+    "def": "The bottom or lower part."
+  },
+  {
+    "term": "Biangulate",
+    "def": "With two angles."
+  },
+  {
+    "term": "Bicuspid or bicuspidate",
+    "def": "Having two cusps."
+  },
+  {
+    "term": "Bifid",
+    "def": "Having two arms or prongs."
+  },
+  {
+    "term": "Bifurcated",
+    "def": "Having two branches."
+  },
+  {
+    "term": "Bilateral",
+    "def": "With two sides."
+  },
+  {
+    "term": "Bilobed",
+    "def": "With two lobes."
+  },
+  {
+    "term": "Blood sinus",
+    "def": "Blood sinus"
+  },
+  {
+    "term": "Calcareous",
+    "def": "Composed of carbonate of lime."
+  },
+  {
+    "term": "Callosity",
+    "def": "A hardened and raised bunch, as the callus on the columella of some shells."
+  },
+  {
+    "term": "Callus",
+    "def": "A deposit of shelly matter."
+  },
+  {
+    "term": "Campanulate",
+    "def": "Formed like a bell."
+  },
+  {
+    "term": "Canaliculate",
+    "def": "Resembling a canal, as the deep sutures in some shells."
+  },
+  {
+    "term": "Cancellated",
+    "def": "Formed of cross-bars, as the longitudinal and spiral lines which cross in some shells."
+  },
+  {
+    "term": "Cardiac pouch",
+    "def": "Containing the heart and placed near the umb'ones of the shell."
+  },
+  {
+    "term": "Carinate",
+    "def": "Keeled. With keel."
+  },
+  {
+    "term": "Cartilaginous",
+    "def": "Like cartilage."
+  },
+  {
+    "term": "Caudal",
+    "def": "Tail-like, or with a tail-like appendage."
+  },
+  {
+    "term": "Cellular",
+    "def": "Made up of cells."
+  },
+  {
+    "term": "Cerebral",
+    "def": "Pertaining to the brain."
+  },
+  {
+    "term": "Channeled",
+    "def": "Grooved or formed like a channel."
+  },
+  {
+    "term": "Chitinous",
+    "def": "Formed of chitin, as the radulas of gastropods."
+  },
+  {
+    "term": "Ciliary",
+    "def": "By means of cilia."
+  },
+  {
+    "term": "Ciliated",
+    "def": "Having cilia."
+  },
+  {
+    "term": "Cilium (plural cilia)",
+    "def": "A lash; used to designate the hairs on the mantle, gills, etc."
+  },
+  {
+    "term": "Clavate",
+    "def": "Club-shaped."
+  },
+  {
+    "term": "Coarctate",
+    "def": "Pressed together, narrowed."
+  },
+  {
+    "term": "Concave",
+    "def": "Excavated, hollowed out."
+  },
+  {
+    "term": "Conchiolin",
+    "def": "Conchiolin"
+  },
+  {
+    "term": "Conic",
+    "def": "Shaped like a cone."
+  },
+  {
+    "term": "Connective",
+    "def": "A part connecting two other parts, as a muscle connecting two parts of the body, or a nerve connecting two ganglia."
+  },
+  {
+    "term": "Constricted",
+    "def": "Narrowed."
+  },
+  {
+    "term": "Contractile",
+    "def": "Capable of being contracted or drawn in, as the tentacle of a snail."
+  },
+  {
+    "term": "Convex",
+    "def": "Bulged out, as the whorls of some snails."
+  },
+  {
+    "term": "Convoluted",
+    "def": "Rolled together."
+  },
+  {
+    "term": "Cordate",
+    "def": "Heart-shaped."
+  },
+  {
+    "term": "Corneous",
+    "def": "Horn-like, as the opercula of some gastropods."
+  },
+  {
+    "term": "Corrugated",
+    "def": "Roughened by wrinkles."
+  },
+  {
+    "term": "Costate",
+    "def": "Having rib-like ridges."
+  },
+  {
+    "term": "Crenulate",
+    "def": "Wrinkled on the edges."
+  },
+  {
+    "term": "Crescentic",
+    "def": "Like a crescent."
+  },
+  {
+    "term": "Cylindrical",
+    "def": "Like a cylinder."
+  },
+  {
+    "term": "Decollated",
+    "def": "Cut off, as the apex of some shells."
+  },
+  {
+    "term": "Decussated",
+    "def": "With spiral and longitudinal lines intersecting, as the sculpture of some shells."
+  },
+  {
+    "term": "Deflexed",
+    "def": "Bent downward, as the last whorl in some snails."
+  },
+  {
+    "term": "Dentate",
+    "def": "With points or nodules resembling teeth, as the aperture of some snails."
+  },
+  {
+    "term": "Denticulate",
+    "def": "Finely dentate."
+  },
+  {
+    "term": "Depressed",
+    "def": "Flattened, as the spire in some snails."
+  },
+  {
+    "term": "Dextral",
+    "def": "Right-handed."
+  },
+  {
+    "term": "Digitiform",
+    "def": "Finger-like."
+  },
+  {
+    "term": "Dilated",
+    "def": "Expanded in all directions, as the aperture of a shell."
+  },
+  {
+    "term": "Dimorphism",
+    "def": "With two forms or conditions."
+  },
+  {
+    "term": "Dioecious",
+    "def": "Having the sexes in two individuals, one male and one female."
+  },
+  {
+    "term": "Distal",
+    "def": "The farthest part from an object."
+  },
+  {
+    "term": "Discoidal",
+    "def": "Shaped like a flat disk."
+  },
+  {
+    "term": "Diverticulum",
+    "def": "A pouch or hole, as the pouch containing the radula, or that containing the dart in helices."
+  },
+  {
+    "term": "Dormant",
+    "def": "In a state of torpor or sleep."
+  },
+  {
+    "term": "Dorsal",
+    "def": "The back. In gastropods the opposite to the aperture."
+  },
+  {
+    "term": "Ectocone",
+    "def": "The outer cusp on the teeth of the radula."
+  },
+  {
+    "term": "Edentulous",
+    "def": "Without teeth or folds, as the aperture in some gastropods."
+  },
+  {
+    "term": "Efferent",
+    "def": "Carrying out."
+  },
+  {
+    "term": "Elliptical",
+    "def": "With an oval form."
+  },
+  {
+    "term": "Elongated",
+    "def": "Drawn out, as the spire of a shell."
+  },
+  {
+    "term": "Emarginate",
+    "def": "Bluntly notched."
+  },
+  {
+    "term": "Encysted",
+    "def": "Enclosed in a cyst."
+  },
+  {
+    "term": "Entocone",
+    "def": "The inner cusp on the teeth of the radula."
+  },
+  {
+    "term": "Entire",
+    "def": "With even, unbroken edges, as the aperture of some shells."
+  },
+  {
+    "term": "Epiphallus",
+    "def": "A portion of the vas deferens which becomes modified into a tube-like organ and is continued beyond the apex of the penis; it frequently bears a blind duct, or flagellum."
+  },
+  {
+    "term": "Epithelium",
+    "def": "All tissues bounding a free surface."
+  },
+  {
+    "term": "Equidistant",
+    "def": "Equally spaced, as the spiral lines on some snail shells."
+  },
+  {
+    "term": "Equilibrating",
+    "def": "Balancing equally."
+  },
+  {
+    "term": "Eroded",
+    "def": "Worn away, as the epidermis on some shells."
+  },
+  {
+    "term": "Erosive",
+    "def": "Capable of erosion."
+  },
+  {
+    "term": "Excavated",
+    "def": "Hollowed out, as the columella of some snails."
+  },
+  {
+    "term": "Excurrent",
+    "def": "Referring to the siphon which carries out the waste matter of the body."
+  },
+  {
+    "term": "Exoskeleton",
+    "def": "The outer skeleton; all shells are exoskeletons."
+  },
+  {
+    "term": "Exserted",
+    "def": "Brought out."
+  },
+  {
+    "term": "Expanded",
+    "def": "Spread out, as the lip of some shells."
+  },
+  {
+    "term": "Falcate",
+    "def": "Scythe-shaped."
+  },
+  {
+    "term": "Fasciculus",
+    "def": "A little bundle."
+  },
+  {
+    "term": "Flagellate",
+    "def": "Animals with a flagellum or lash."
+  },
+  {
+    "term": "Flexuous",
+    "def": "Formed in a series of curves or turnings, as the columella in some shells."
+  },
+  {
+    "term": "Flocculent",
+    "def": "Clinging together in bunches."
+  },
+  {
+    "term": "Fluviatile",
+    "def": "Living in running streams."
+  },
+  {
+    "term": "Fusiform",
+    "def": "Thick in the middle and tapering at each end."
+  },
+  {
+    "term": "Gelatinous",
+    "def": "Like jelly, as the eggs of some mollusks."
+  },
+  {
+    "term": "Gibbous",
+    "def": "Very much rounded, as the whorls in some snails."
+  },
+  {
+    "term": "Glandular",
+    "def": "Like a gland."
+  },
+  {
+    "term": "Globose",
+    "def": "Rounded."
+  },
+  {
+    "term": "Granulated",
+    "def": "Covered with little grains."
+  },
+  {
+    "term": "Gravid",
+    "def": "A female mollusk with ovaries distended with young."
+  },
+  {
+    "term": "Gregarious",
+    "def": "Living in colonies."
+  },
+  {
+    "term": "Gular",
+    "def": "Relating to the windpipe or palate. In mollusks, referring to the innermost part of the aperture."
+  },
+  {
+    "term": "Habitat",
+    "def": "Locality of a species."
+  },
+  {
+    "term": "Hasmolymph",
+    "def": "Molluscan blood."
+  },
+  {
+    "term": "Heliciform",
+    "def": "In form like Helix."
+  },
+  {
+    "term": "Hemispherical",
+    "def": "Half a sphere."
+  },
+  {
+    "term": "Herbivorous",
+    "def": "Subsisting upon vegetable food."
+  },
+  {
+    "term": "Hermaphrodite",
+    "def": "Having the sexes united in the same individual."
+  },
+  {
+    "term": "Hibernation",
+    "def": "The act of hibernating or going to sleep for the winter months."
+  },
+  {
+    "term": "Hirsute",
+    "def": "Covered with hairs, as some snails."
+  },
+  {
+    "term": "Hispid",
+    "def": "Same as hirsute."
+  },
+  {
+    "term": "Homologous",
+    "def": "Having the same position or value, as the wing of a bird and of a bat."
+  },
+  {
+    "term": "Hyaline",
+    "def": "Glassy."
+  },
+  {
+    "term": "Imperforate",
+    "def": "Not perforated or umbilicated."
+  },
+  {
+    "term": "Impressed",
+    "def": "Marked by a furrow, as the impressed spiral lines on some gastropod shells."
+  },
+  {
+    "term": "Incrassate",
+    "def": "Thickened."
+  },
+  {
+    "term": "Incurved",
+    "def": "Leaned or bent over, as the apex in some snails."
+  },
+  {
+    "term": "Indented",
+    "def": "Notched."
+  },
+  {
+    "term": "Inflected",
+    "def": "Turned in, as the teeth of some snails."
+  },
+  {
+    "term": "Inhalent",
+    "def": "Same as incurrent."
+  },
+  {
+    "term": "Inoperculate",
+    "def": "Without an operculum."
+  },
+  {
+    "term": "Intercostate",
+    "def": "Between the ribs or ridges."
+  },
+  {
+    "term": "Invaginate",
+    "def": "One part bending into another, as the tentacles of some land snails."
+  },
+  {
+    "term": "Invertible",
+    "def": "Capable of being inverted, or drawn in, as the eye-peduncles of a land snail."
+  },
+  {
+    "term": "Juvenile",
+    "def": "Juvenile"
+  },
+  {
+    "term": "Keeled",
+    "def": "With a more or less sharp projection at the periphery."
+  },
+  {
+    "term": "Lamellated",
+    "def": "Covered with scales."
+  },
+  {
+    "term": "Lamelliform",
+    "def": "Having the form of scales."
+  },
+  {
+    "term": "Laminated",
+    "def": "Consisting of plates or scales laid over each other."
+  },
+  {
+    "term": "Lanceolate",
+    "def": "Gradually tapering to a point."
+  },
+  {
+    "term": "Lateral",
+    "def": "Pertaining to the side."
+  },
+  {
+    "term": "Latticed",
+    "def": "(See decussated.)"
+  },
+  {
+    "term": "Lobulate",
+    "def": "Composed of lobes."
+  },
+  {
+    "term": "Longitudinal",
+    "def": "The length of a shell."
+  },
+  {
+    "term": "Lunate",
+    "def": "Shaped like a half moon, as the aperture in some shells."
+  },
+  {
+    "term": "Malleated",
+    "def": "Appearing as though hammered."
+  },
+  {
+    "term": "Manducatory",
+    "def": "Relating to the apparatus for masticating food. In snails, the jaws and radula."
+  },
+  {
+    "term": "Median",
+    "def": "Middle, as the middle tooth on the radula."
+  },
+  {
+    "term": "Mesocene",
+    "def": "The middle cusp on the teeth of the radula."
+  },
+  {
+    "term": "Monoecius",
+    "def": "Having the sexes united in the same individual."
+  },
+  {
+    "term": "Multifid",
+    "def": "Made up of many lobes or projections, as the cusps on some radulae."
+  },
+  {
+    "term": "Multispiral",
+    "def": "Consisting of many whorls, as some fresh-water snails."
+  },
+  {
+    "term": "Nacreous",
+    "def": "Pearly or iridescent."
+  },
+  {
+    "term": "Nepionic",
+    "def": "The second stage of the embryonic shell, as the glochidium."
+  },
+  {
+    "term": "Notched",
+    "def": "Nicked or indented, as the anterior canal of some gastropods."
+  },
+  {
+    "term": "Nucleus",
+    "def": "The first part or beginning, as the apex in a gastropod shell."
+  },
+  {
+    "term": "Nucleated",
+    "def": "Having a nucleus."
+  },
+  {
+    "term": "Obconic",
+    "def": "In the form of a reversed cone."
+  },
+  {
+    "term": "Oblique",
+    "def": "Slanting, as the aperture of some shells when not parallel to the longitudinal axis."
+  },
+  {
+    "term": "Obovate",
+    "def": "Reversed ovate, as some shells when the diameter is greater near the upper than at the lower part."
+  },
+  {
+    "term": "Obtuse",
+    "def": "Dull or blunt, as the apex of some gastropods."
+  },
+  {
+    "term": "Olfactory",
+    "def": "Pertaining to the smell."
+  },
+  {
+    "term": "Olivaceous",
+    "def": "Colored like an olive."
+  },
+  {
+    "term": "Organism",
+    "def": "An organized being, or living object made up of organs."
+  },
+  {
+    "term": "Ovate",
+    "def": "Egg-shaped."
+  },
+  {
+    "term": "Ovately conic",
+    "def": "Shaped like an egg, but with a somewhat conic apex, as some gastropods."
+  },
+  {
+    "term": "Oviparous",
+    "def": "Bringing forth young in an egg which is hatched after it is laid."
+  },
+  {
+    "term": "Ovisac",
+    "def": "A pouch in which the eggs or embryos are contained."
+  },
+  {
+    "term": "Ovoviviparous",
+    "def": "In this case the young are formed in an egg but are hatched inside the parent."
+  },
+  {
+    "term": "Pallial lung",
+    "def": "Pallial lung"
+  },
+  {
+    "term": "Papillose",
+    "def": "Covered with many little bulgings or pimples."
+  },
+  {
+    "term": "Parallel",
+    "def": "Having the same relative distance in all parts, as when the spiral lines in univalve shells are the same distance apart all the way around."
+  },
+  {
+    "term": "Patelliform",
+    "def": "Shaped like a flattened-out cone, as an Ancylus."
+  },
+  {
+    "term": "Patulous",
+    "def": "Open and spreading, as the aperture in some gastropods."
+  },
+  {
+    "term": "Paucispiral",
+    "def": "Only slightly spiral, as some opercula."
+  },
+  {
+    "term": "Pectinate",
+    "def": "Like the teeth of a comb, as the gills of some mollusks."
+  },
+  {
+    "term": "Pedal",
+    "def": "Pertaining to the foot."
+  },
+  {
+    "term": "Pedunculated",
+    "def": "Supported on a stem or stalk, as the eyes of land snails."
+  },
+  {
+    "term": "Pellucid",
+    "def": "Transparent or clear, as the shells of some snails; e. g. Vitrea."
+  },
+  {
+    "term": "Penultimate",
+    "def": "The whorl before the last in gastropod shells."
+  },
+  {
+    "term": "Pericardium",
+    "def": "The chamber containing the heart."
+  },
+  {
+    "term": "Periostracum",
+    "def": "The epidermal covering of some shells."
+  },
+  {
+    "term": "Pervious",
+    "def": "Very narrowly open, as the umbilicus in some snails."
+  },
+  {
+    "term": "Phytophagus",
+    "def": "Vegetable-feeding."
+  },
+  {
+    "term": "Pilose",
+    "def": "Covered with hairs."
+  },
+  {
+    "term": "Pinnate",
+    "def": "Branched like a feather, as the gills of some mollusks."
+  },
+  {
+    "term": "Plaited",
+    "def": "Folded."
+  },
+  {
+    "term": "Planispiral shell",
+    "def": "Planispiral shell"
+  },
+  {
+    "term": "Planorboid",
+    "def": "Flat and orb-like, as some snails."
+  },
+  {
+    "term": "Pleurae",
+    "def": "Relating to the side of a body."
+  },
+  {
+    "term": "Plexus",
+    "def": "A network of vessels, as the form of the lungs in snails."
+  },
+  {
+    "term": "Plicated",
+    "def": "Made up of folds."
+  },
+  {
+    "term": "Plumose",
+    "def": "Resembling plumes."
+  },
+  {
+    "term": "Polygonal",
+    "def": "Having many angles."
+  },
+  {
+    "term": "Porcellanous",
+    "def": "Like porcelain."
+  },
+  {
+    "term": "Prismatic",
+    "def": "Like a prism."
+  },
+  {
+    "term": "Prodissoconch",
+    "def": "The embryonic shell."
+  },
+  {
+    "term": "Protoconch",
+    "def": "The embryonic shell."
+  },
+  {
+    "term": "Protract",
+    "def": "To push out."
+  },
+  {
+    "term": "Protractor pedis",
+    "def": "The foot protractor muscle."
+  },
+  {
+    "term": "Protrusile",
+    "def": "Capable of being pushed out."
+  },
+  {
+    "term": "Proximal",
+    "def": "The nearest end of an object."
+  },
+  {
+    "term": "Pulsation",
+    "def": "A throb, as the throbbing of the heart."
+  },
+  {
+    "term": "Pupiform",
+    "def": "Like a pupa; one of the stages in the development of an insect."
+  },
+  {
+    "term": "Pustulate",
+    "def": "Covered with pustules or little pimples."
+  },
+  {
+    "term": "Pustulose",
+    "def": "Same as pustulate."
+  },
+  {
+    "term": "Pyramidal",
+    "def": "Having the form of a pyramid."
+  },
+  {
+    "term": "Pyriform",
+    "def": "Shaped like a pear."
+  },
+  {
+    "term": "Reflected",
+    "def": "Bent backward, as the lip in some snails."
+  },
+  {
+    "term": "Reflexed",
+    "def": "Same as Reflected."
+  },
+  {
+    "term": "Renal",
+    "def": "Relating to the kidneys."
+  },
+  {
+    "term": "Reticulated",
+    "def": "Resembling a network, as when the longitudinal and spiral lines cross in a snail."
+  },
+  {
+    "term": "Retractile",
+    "def": "Capable of being drawn in, as the eye peduncles in land snails."
+  },
+  {
+    "term": "Retractor pedis",
+    "def": "Foot retractor muscle."
+  },
+  {
+    "term": "Revolving lines",
+    "def": "Spiral lines on a snail shell which run parallel with the sutures."
+  },
+  {
+    "term": "Rhombic",
+    "def": "Having four sides, the angles being oblique."
+  },
+  {
+    "term": "Rhomboid",
+    "def": "Four-sided, but two of the sides being longer than the others."
+  },
+  {
+    "term": "Rimate",
+    "def": "Provided with a very small hole or crack, as some snails in which the umbilicus is very narrowly open."
+  },
+  {
+    "term": "Roundly lunate",
+    "def": "Rounder than lunate (which see)."
+  },
+  {
+    "term": "Rostriform",
+    "def": "In the form of a rostrum."
+  },
+  {
+    "term": "Rudimentary",
+    "def": "Not fully formed; imperfect."
+  },
+  {
+    "term": "Rugose",
+    "def": "Rough or wrinkled, as parts of some shells."
+  },
+  {
+    "term": "Sacculated",
+    "def": "Somewhat like a sac, or composed of sac-like parts."
+  },
+  {
+    "term": "Scalar",
+    "def": "Resembling a ladder."
+  },
+  {
+    "term": "Secreted",
+    "def": "Produced or deposited from the blood or glands, as the shell material in mollusks."
+  },
+  {
+    "term": "Semicircular",
+    "def": "Half round or circular, as the aperture in some snails."
+  },
+  {
+    "term": "Semidentate",
+    "def": "Half toothed, as the parietal wall in some land snails."
+  },
+  {
+    "term": "Semielliptic",
+    "def": "Half elliptical."
+  },
+  {
+    "term": "Semiglobose",
+    "def": "Half, or not quite globose."
+  },
+  {
+    "term": "Semilunate",
+    "def": "Half lunate."
+  },
+  {
+    "term": "Semioval",
+    "def": "Half, or not quite oval."
+  },
+  {
+    "term": "Serrated",
+    "def": "Notched, like the teeth on a saw."
+  },
+  {
+    "term": "Serriform",
+    "def": "In the form of series."
+  },
+  {
+    "term": "Sessile",
+    "def": "Attached without a stem, as the eyes in some water snails."
+  },
+  {
+    "term": "Shouldered",
+    "def": "Ridged, as the whorls in some snails."
+  },
+  {
+    "term": "Sigmoid",
+    "def": "Shaped like the letter S."
+  },
+  {
+    "term": "Siliceous",
+    "def": "Made up of silex."
+  },
+  {
+    "term": "Sinistral",
+    "def": "Having the aperture on the left side."
+  },
+  {
+    "term": "Sinusigerid",
+    "def": "with a diagonally cancellate (structure)"
+  },
+  {
+    "term": "Sinuous",
+    "def": "Curved in and out, as the edge of some bivalves and the lips of some snails."
+  },
+  {
+    "term": "Siphonal canal",
+    "def": "semi-tubular extension of the aperture of the shell through which the siphon is extended when the animal is active"
+  },
+  {
+    "term": "Spatulate",
+    "def": "In the form of a spatula, a flat-bladed instrument used by druggists in pulverizing drugs."
+  },
+  {
+    "term": "Spherical",
+    "def": "Shaped like a sphere."
+  },
+  {
+    "term": "Spiral",
+    "def": "Wound about a central cavity, as the whorls of snails."
+  },
+  {
+    "term": "Striated",
+    "def": "Marked by lines or striae."
+  },
+  {
+    "term": "Subangulated",
+    "def": "Moderately angled."
+  },
+  {
+    "term": "Subcarinated",
+    "def": "Moderately carinated."
+  },
+  {
+    "term": "Subcentral",
+    "def": "Not quite in the center."
+  },
+  {
+    "term": "Subcircular",
+    "def": "Not quite circular."
+  },
+  {
+    "term": "Subconical",
+    "def": "Moderately conical."
+  },
+  {
+    "term": "Subcylindrical",
+    "def": "Moderately cylindrical."
+  },
+  {
+    "term": "Subequal",
+    "def": "Not quite equal."
+  },
+  {
+    "term": "Subexcavated",
+    "def": "A little excavated."
+  },
+  {
+    "term": "Subfusiform",
+    "def": "Moderately fusiform."
+  },
+  {
+    "term": "Subglobose",
+    "def": "Moderately globose."
+  },
+  {
+    "term": "Subglobular",
+    "def": "Moderately globular."
+  },
+  {
+    "term": "Subhyaline",
+    "def": "Moderately glassy."
+  },
+  {
+    "term": "Subimperforate",
+    "def": "Not much perforated."
+  },
+  {
+    "term": "Suboblong",
+    "def": "Moderately oblong."
+  },
+  {
+    "term": "Subobsolete",
+    "def": "Almost disappearing."
+  },
+  {
+    "term": "Subovate",
+    "def": "Nearly ovate."
+  },
+  {
+    "term": "Subparallel",
+    "def": "Almost parallel."
+  },
+  {
+    "term": "Subperforated",
+    "def": "Almost perforated."
+  },
+  {
+    "term": "Subquadrate",
+    "def": "Almost four-sided."
+  },
+  {
+    "term": "Subreflected",
+    "def": "Moderately turned back."
+  },
+  {
+    "term": "Subrotund",
+    "def": "Moderately round."
+  },
+  {
+    "term": "Subspiral",
+    "def": "Moderately spiral."
+  },
+  {
+    "term": "Subtriangulate",
+    "def": "Moderately or almost triangular."
+  },
+  {
+    "term": "Subtrigonal",
+    "def": "Moderately three-angled."
+  },
+  {
+    "term": "Subtruncate",
+    "def": "Moderately cut off."
+  },
+  {
+    "term": "Subumbilicated",
+    "def": "Moderately umbilicated."
+  },
+  {
+    "term": "Sulcated",
+    "def": "Grooved."
+  },
+  {
+    "term": "Sulcus",
+    "def": "A longitudinal furrow."
+  },
+  {
+    "term": "Superanal",
+    "def": "Above the anus."
+  },
+  {
+    "term": "Supra-peripheral",
+    "def": "Above the periphery."
+  },
+  {
+    "term": "Symmetrical",
+    "def": "Alike on both sides or uniform in all parts."
+  },
+  {
+    "term": "Terrestrial",
+    "def": "Living on the land."
+  },
+  {
+    "term": "Testaceous",
+    "def": "Composed of shelly matter."
+  },
+  {
+    "term": "Torsion",
+    "def": "A twisting around."
+  },
+  {
+    "term": "Tortuous",
+    "def": "Twisted or winding."
+  },
+  {
+    "term": "Torpid",
+    "def": "Half unconscious or asleep, as a snail during hibernation."
+  },
+  {
+    "term": "Translucent",
+    "def": "Not quite transparent; light is seen through the thin edges of the object."
+  },
+  {
+    "term": "Transparent",
+    "def": "Objects may be seen through the substance."
+  },
+  {
+    "term": "Transverse",
+    "def": "Referring to the form of a shell when it is wider than high."
+  },
+  {
+    "term": "Tricuspidate",
+    "def": "Having three cusps."
+  },
+  {
+    "term": "Trifid",
+    "def": "Having three branches."
+  },
+  {
+    "term": "Trigonal",
+    "def": "Having three angles."
+  },
+  {
+    "term": "Trilobate",
+    "def": "Having three lobes."
+  },
+  {
+    "term": "Tripartite",
+    "def": "Divided into three parts, as the foot of some snails."
+  },
+  {
+    "term": "Truncate",
+    "def": "Having the end cut off squarely."
+  },
+  {
+    "term": "Tuberculate",
+    "def": "Covered with tubercles or rounded knobs."
+  },
+  {
+    "term": "Turbinate",
+    "def": "Having the form of a top."
+  },
+  {
+    "term": "Turriculated",
+    "def": "Having the form of a tower."
+  },
+  {
+    "term": "Turreted",
+    "def": "Having the form of a tower."
+  },
+  {
+    "term": "Umbilicated",
+    "def": "Having an opening in the base of the shell."
+  },
+  {
+    "term": "Undulated",
+    "def": "Having undulations or waves."
+  },
+  {
+    "term": "Univalve",
+    "def": "Having the shell composed of a single piece, as a snail."
+  },
+  {
+    "term": "Varicose",
+    "def": "Swollen or enlarged."
+  },
+  {
+    "term": "Vascular",
+    "def": "Containing or made up of blood vessels."
+  },
+  {
+    "term": "Vermiform",
+    "def": "Formed like a worm."
+  },
+  {
+    "term": "Ventral",
+    "def": "The lower border or side."
+  },
+  {
+    "term": "Ventricose",
+    "def": "Swollen or inflated on the ventral side."
+  },
+  {
+    "term": "Vibratile",
+    "def": "Moving from side to side."
+  },
+  {
+    "term": "Vitreous",
+    "def": "Resembling glass, as some snails."
+  }
+]

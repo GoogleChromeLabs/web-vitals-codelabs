@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Gastropodicon</title>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#1c3af8">
+    <meta name="description" content="🐌">
+
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐌</text></svg>">
+
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+
+    <aside id="sidenav-open">
+      <nav>
+        <h4>Navigation</h4>
+        <a href="#">Home</a>
+        <a href="#">Glossary</a>
+        <a href="#">Search</a>
+        <h4>Account</h4>
+        <a href="#">Profile</a>
+        <a href="#">Settings</a>
+      </nav>
+      
+      <a href="#" id="sidenav-close" title="Close Menu" aria-label="Close Menu"></a>
+    </aside>
+
+    <main>
+      <header>
+        <a href="#sidenav-open" id="sidenav-button" class="hamburger" title="Open Menu" aria-label="Open Menu">
+          <svg viewBox="0 0 50 40" role="presentation" focusable="false" aria-label="trigram for heaven symbol">
+            <line x1="0" x2="100%" y1="10%" y2="10%" />
+            <line x1="0" x2="100%" y1="50%" y2="50%" />
+            <line x1="0" x2="100%" y1="90%" y2="90%" />
+          </svg>
+        </a>
+        <h1><span class="snail">🐌</span> Gastropodicon</h1>
+      </header>
+
+      <article class="intro">
+        <h2>Glossary</h2>
+        <p>Common English and scientific terms used in the description of gastropods (<a href="https://en.wikipedia.org/wiki/Glossary_of_gastropod_terms">source</a>).</p>
+        <input type="text" placeholder="Search" id="search-terms">
+      </article>
+    </main>
+
+    <script src="third-party/tag.js" type="module"></script>
+    <script src="third-party/cmp.js" type="module"></script>
+
+    <script src="js/index.js" type="module"></script>
+  </body>
+</html>
