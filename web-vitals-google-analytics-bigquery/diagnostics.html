@@ -45,7 +45,7 @@ to ensure data is reported to your GA4 property.
 <!-- End of script tags to replace  -->
 
 <script type="module">
-  import {getCLS, getFID, getLCP} from 'https://unpkg.com/web-vitals?module';
+  import {onCLS, onINP, onLCP} from 'https://unpkg.com/web-vitals?module';
 
   function getSelector(node, maxLen = 100) {
    let sel = '';
@@ -140,9 +140,9 @@ to ensure data is reported to your GA4 property.
     });
   }
 
-  getLCP(sendToGoogleAnalytics);
-  getFID(sendToGoogleAnalytics);
-  getCLS(sendToGoogleAnalytics);
+  onLCP(sendToGoogleAnalytics);
+  onINP(sendToGoogleAnalytics);
+  onCLS(sendToGoogleAnalytics);
 </script>
 </body>
 </html>
