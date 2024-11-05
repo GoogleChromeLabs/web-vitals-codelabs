@@ -2,7 +2,7 @@
 
 ## Understanding Interaction to Next Paint (INP)
 
-[This directory](understanding-inp/) contains code and answers for the [Understanding INP codelab](https://codelabs.developers.google.com/codelabs/understanding-inp).
+[This directory](understanding-inp/) contains code and answers for the [Understanding INP codelab](https://codelabs.developers.google.com/understanding-inp).
 
 ## Measure performance with web-vitals.js, Google Analytics and BigQuery code samples
 
