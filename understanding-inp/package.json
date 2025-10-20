@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "lit": "^2.8.0",
-    "vite": "^4.5.3",
+    "vite": "^5.4.21",
     "web-vitals": "^3.5.2"
   },
   "keywords": [
