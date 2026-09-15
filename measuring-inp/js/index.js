@@ -1,4 +1,3 @@
-import '../node_modules/wicg-inert/dist/inert.js';
 import {searchTerms} from './search-terms.js';
 import {sidenavSetup} from './side-nav.js';
 

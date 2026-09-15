@@ -1,4 +1,4 @@
-// import { onINP } from 'https://unpkg.com/web-vitals@3?module';
+// import { onINP } from 'https://unpkg.com/web-vitals@6?module';
 import { onINP } from 'web-vitals';
 import { MetricViewer } from './metric-viewer.js';
 
